@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "Profolio",
+			"path": "..\\..\\..\\..\\Desktop\\Devmountain\\Profolio"
+		},
+		{
+			"name": "css",
+			"path": "..\\css"
+		},
+		{
+			"name": "fonts",
+			"path": "..\\fonts"
+		},
+		{
+			"name": "images",
+			"path": "..\\images"
+		},
+		{
+			"name": "inc",
+			"path": "..\\inc"
+		},
+		{
+			"name": "js",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
